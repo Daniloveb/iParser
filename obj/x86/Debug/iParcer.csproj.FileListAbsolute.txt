@@ -1,0 +1,8 @@
+d:\DropBox\CenterSystems\УЭМЗ\Scripts\INV_Parcer\Iparcer\iParcer\bin\Debug\iParcer.exe
+d:\DropBox\CenterSystems\УЭМЗ\Scripts\INV_Parcer\Iparcer\iParcer\bin\Debug\iParcer.pdb
+d:\DropBox\CenterSystems\УЭМЗ\Scripts\INV_Parcer\Iparcer\iParcer\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\DropBox\CenterSystems\УЭМЗ\Scripts\INV_Parcer\Iparcer\iParcer\obj\x86\Debug\iParcer.ProjectInstaller.resources
+d:\DropBox\CenterSystems\УЭМЗ\Scripts\INV_Parcer\Iparcer\iParcer\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\DropBox\CenterSystems\УЭМЗ\Scripts\INV_Parcer\Iparcer\iParcer\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\DropBox\CenterSystems\УЭМЗ\Scripts\INV_Parcer\Iparcer\iParcer\obj\x86\Debug\iParcer.exe
+d:\DropBox\CenterSystems\УЭМЗ\Scripts\INV_Parcer\Iparcer\iParcer\obj\x86\Debug\iParcer.pdb

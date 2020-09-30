@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iParser", "iParser.csproj", "{4C5CBFF9-8AEB-4E18-A3FA-BA4317859047}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "iParserSetup", "..\iParserSetup\iParserSetup\iParserSetup.vdproj", "{ADED72FA-2272-4808-A0FA-C7A62E1B7505}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|x86 = Debug|x86
+		DVD-5|x86 = DVD-5|x86
+		Release|x86 = Release|x86
+		SingleImage|x86 = SingleImage|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C5CBFF9-8AEB-4E18-A3FA-BA4317859047}.CD_ROM|x86.ActiveCfg = Release|x86
+		{4C5CBFF9-8AEB-4E18-A3FA-BA4317859047}.CD_ROM|x86.Build.0 = Release|x86
+		{4C5CBFF9-8AEB-4E18-A3FA-BA4317859047}.Debug|x86.ActiveCfg = Debug|x86
+		{4C5CBFF9-8AEB-4E18-A3FA-BA4317859047}.Debug|x86.Build.0 = Debug|x86
+		{4C5CBFF9-8AEB-4E18-A3FA-BA4317859047}.DVD-5|x86.ActiveCfg = Debug|x86
+		{4C5CBFF9-8AEB-4E18-A3FA-BA4317859047}.DVD-5|x86.Build.0 = Debug|x86
+		{4C5CBFF9-8AEB-4E18-A3FA-BA4317859047}.Release|x86.ActiveCfg = Release|x86
+		{4C5CBFF9-8AEB-4E18-A3FA-BA4317859047}.Release|x86.Build.0 = Release|x86
+		{4C5CBFF9-8AEB-4E18-A3FA-BA4317859047}.SingleImage|x86.ActiveCfg = Release|x86
+		{4C5CBFF9-8AEB-4E18-A3FA-BA4317859047}.SingleImage|x86.Build.0 = Release|x86
+		{ADED72FA-2272-4808-A0FA-C7A62E1B7505}.CD_ROM|x86.ActiveCfg = Release
+		{ADED72FA-2272-4808-A0FA-C7A62E1B7505}.Debug|x86.ActiveCfg = Debug
+		{ADED72FA-2272-4808-A0FA-C7A62E1B7505}.DVD-5|x86.ActiveCfg = Debug
+		{ADED72FA-2272-4808-A0FA-C7A62E1B7505}.Release|x86.ActiveCfg = Release
+		{ADED72FA-2272-4808-A0FA-C7A62E1B7505}.SingleImage|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

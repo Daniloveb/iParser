@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<!--Конфигурацинный файл парсера логфайлов iParser. Версия файла 1.0-->
+<!---->
+<ParserConfig>
+  <Settings LoadDirectoryPath="d:\INV_Parcer\LoadDirectory\" BackupDirectoryPath="d:\INV_Parcer\BackupDirectory\" BadXMLDirectoryPath="d:\INV_Parcer\BadXMLDirectory\" SaveLogFileTime="10" SQLServerName="DANILOV\SQLEXPRESS" SQLInstanceName="" SQLBaseName="IBase"></Settings>
+</ParserConfig>

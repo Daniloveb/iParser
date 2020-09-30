@@ -1,0 +1,2 @@
+cscript CreateKE.vbs
+pause

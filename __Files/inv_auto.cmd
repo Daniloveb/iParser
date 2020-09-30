@@ -1,0 +1,1 @@
+cscript invRM.vbs auto "d:\temp5" "192.168.10,192.168.11,192.168.12"
