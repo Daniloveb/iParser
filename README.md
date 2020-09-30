@@ -1,16 +1,17 @@
 # IParser
 ## Overview
 
-Tool for Asset Management. 
-Collection and store inventory data.
-Project stopped at 2015. Arhive store.
-Questions >> @evgeny_danilov
+Tool for Asset Management.  
+Collection and store inventory data.  
+Project stopped at 2015. Arhive store.   
+>Questions >> @daniloveb
 
 
 ## Project structure:
 * MS SQL databse iBase
 * C# Service iParser
 * Console scripts invRM.vbs, CreateKE.vbs
+***
 
 ## RU
 Комплекс для сбора и хранения инвентаризациюнных данных в сети предприятия.
