@@ -4,7 +4,7 @@
 Tool for Asset Management.  
 Collection and store inventory data.  
 Project stopped at 2015. Arhive store.   
->Questions >> @daniloveb
+>Questions >> https://t.me/daniloveb
 
 
 ## Project structure:
